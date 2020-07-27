@@ -1,4 +1,4 @@
-# Leap painting
+# Leap Painting
 
 A simple interaction experiment with the Leap motion controller.</br>
 Requires 
